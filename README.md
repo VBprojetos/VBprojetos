@@ -1,5 +1,10 @@
 ## Olá , nós somos a VBprojetos, um grupo entusiasta em tecnologias com o proposito de melhorar e auxiliar a vida cotidiana ou ambiente empresarial
 
+## Fundadores : Lucas Bueno, Pedro Antonio Garcia Venegas
+
+
+
+
 
 
 <div style="display: inline_block"><br>
